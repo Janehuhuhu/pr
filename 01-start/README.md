@@ -19,7 +19,8 @@
 
 - 视频混剪比较卡顿
   - 渲染输出："序列" -> "渲染输入到输出"
-- 素材链接
+- 素材链接<br>
+  一般国外的视频没有版权限制，如 mixkit
   - [lookae](https://www.lookae.com/sucai/)
   - [觅元素](https://www.51yuansu.com/)
   - [新片场](https://www.aewz.com/)
@@ -27,3 +28,4 @@
   - [爱给](https://www.aigei.com/)
   - [mixkit](https://mixkit.co/free-stock-video/)
   - [包图网](https://ibaotu.com/?chan=sg&label=poster&plan=C9-sg&kwd=232650&unit=11357)
+  - [光厂](https://www.vjshi.com/)
