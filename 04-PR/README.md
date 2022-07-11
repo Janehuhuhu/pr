@@ -55,8 +55,14 @@
   - 分别设置每个视频的红色、绿色、蓝色为100，其他两个参数为0
   - 每个视频设置缩放的关键帧，设置好了可以直接粘贴复制
 
-  <img src="./images/video-5.png"></img>
-    
+    <img src="./images/video-7.png"></img>
+
+
+<br>
+
+#### 曝光过度
+- 打开曝光过度效果，设置阈值为100即可
+  <img src="./images/video-7.png"></img>
 
 
 
