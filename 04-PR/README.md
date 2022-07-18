@@ -7,6 +7,7 @@
 
 <br>
 
+### MV 剪辑实践
 #### 人物定格
 
   - 首先截取图片，找到蒙版，利用钢笔进行描边，最后描绘出人物蒙版。
@@ -65,8 +66,35 @@
   <img src="./images/video-7.png"></img>
 
 
+<br>
+<br>
 
+### 视频卡顿解决
+#### 常规
+  - 降低预览质量：点击预览区的右下角，改完整至 1/X,不影响导出质量
+    <img src="./images/video-9.png"></img>
 
+  - 修改渲染程序
+    <img src="./images/video-10.png"></img>
+    <img src="./images/video-11.png"></img>
+
+  - 清除软件缓存
+    <img src="./images/video-12.png"></img>
+    <img src="./images/video-13.png"></img>
+
+  - 渲染入点到出点
+    <img src="./images/video-14.png"></img>
+
+#### 代理
+
+  - 安装软件ME（Adobe Media Encode）
+    <img src="./images/video-15.png"></img>
+
+  - 创建代理
+    选中视频，创建代理
+    <img src="./images/video-16.png"></img>
+    <img src="./images/video-17.png"></img>
+    <img src="./images/video-18.png"></img>
 
 
 
